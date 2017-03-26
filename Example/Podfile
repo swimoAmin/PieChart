@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PieChartLib_Example' do
+  pod 'PieChartLib', :path => '../'
+
+  target 'PieChartLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
