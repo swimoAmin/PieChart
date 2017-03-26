@@ -21,22 +21,22 @@ Pod::Spec.new do |s|
 PieChart lib for ios app is very addvenced lib which allow users to display their data in piechart.
                        DESC
 
-  s.homepage         = 'https://github.com/swimoAmin/PieChartLib'
+  s.homepage         = 'https://github.com/mswiden36@gmail.com/PieChartLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mswiden36@gmail.com' => 'souiden@360medlink.com' }
-  s.source           = { :git => 'https://github.com/swimoAmin/PieChartLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mswiden36@gmail.com/PieChartLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'PieChartLib/**/*.swift'
-  
+
   # s.resource_bundles = {
   #   'PieChartLib' => ['PieChartLib/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit'
+  # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
