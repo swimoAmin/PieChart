@@ -1,0 +1,6 @@
+framework module Pods_PieChartLib_Example {
+  umbrella header "Pods-PieChartLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

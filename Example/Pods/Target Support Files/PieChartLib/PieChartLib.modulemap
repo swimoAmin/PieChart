@@ -1,0 +1,6 @@
+framework module PieChartLib {
+  umbrella header "PieChartLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

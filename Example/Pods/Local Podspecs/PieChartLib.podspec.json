@@ -1,0 +1,22 @@
+{
+  "name": "PieChartLib",
+  "version": "0.1.0",
+  "summary": "A short description of PieChartLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mswiden36@gmail.com/PieChartLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mswiden36@gmail.com": "souiden@360medlink.com"
+  },
+  "source": {
+    "git": "https://github.com/mswiden36@gmail.com/PieChartLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PieChartLib/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - PieChartLib (0.1.0)
+
+DEPENDENCIES:
+  - PieChartLib (from `../`)
+
+EXTERNAL SOURCES:
+  PieChartLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PieChartLib: 3340befdb287ecb58cb24702cc79ae08d4cbc2dd
+
+PODFILE CHECKSUM: 9fdc381e966f77174395aa47ca3d04067bff1c96
+
+COCOAPODS: 1.2.0
